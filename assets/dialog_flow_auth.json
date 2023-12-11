@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "apnamart-xaeh",
+  "private_key_id": "dfe396d2585ca5b16c091485db56dd25db24ce67",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnFOKW4X4I7uXC\nBks8phzUEr8rDt/SD6e8fZ+p47nMhCnWlxu0TOGZgvqsdmPw4jNnklg9dRZI3Gmg\nARtRAibZueRkHD5WQkUD0qxBakE8z2X2iw8HKWFPCYM7IawPcCRRAnJtMbscVGOZ\nujkJ8kn+69FKFIfZZAuteLC0i4vJG5ReqPDlxcW4PRwLcv4afA5Y5kMAznaeXHO1\n+CxWLpQw12VlzpOcIw1EYruduma1m/dzG72PM8RwW3i1brdMAjFW1Od02rlMHh0z\naqgApD2bWiQwFCdHbZ3gUBezkHHI6yPwfvgLosNJjh9g0zzqC6/qoyvP4e4Cruc6\nPZtPAx15AgMBAAECggEAA5cZDF1xkB8UDFCGztmR7oOtnG8AI7sm40++vc+RJ0Ii\nxQPvujbZtSsBmHGd0agGqz/TihSJQ00LLv8/F0VI0O5j6DvMIh3f7kZZYbl3B+e7\n/Ol9i+2Zc/GUIpHlaNqDyULYcxy5tNDiaAP+pEZSzTnDgEhDKAp0jsh0YZjLCun2\nF5ivtujZCQKXNV22YEVjsVHekfGZBKoU2fGxVzX0bqZRQV0nlCP09Ww4x1vp2kUz\nINkGElRUu9ab6/0rVd9FusQf7d5jeAhFZX35pEIVGiEQRDL/nX+SDDv+DD3EU7DQ\nH2+klh765LXqQRbmMOlXb+wIUVPnWeheSFO7GmM1gQKBgQDqgnXWBUu5y3XU9blH\nD7/Nt2L3yFus57fM18UlaSMbl8e2/PnSE4HbKU+8hiqCDp7sQCiVvJqK+tTs9KJi\n9FEKZATbr24thBzRDMzZBwLskfJ3FTNFacS7UE4noLcOCqMHyUTSf0p7ELbA3CLU\nw2sJlJIHIVzPJDbZwwU6L36oOQKBgQC2ZJRNzg9B5U1lXC6PMDnT4okV5npWxvC5\n82oxWFXujtX7RaBd3IR0naeR3pUsA+q/S3aZ9ye7rYtQ4dI5Vv2evQfRmdQaRTZB\nbE8paqkFvSlAcK2+SCcJOj4mBYWHSkbfEsX7PCpJpEQhB0Y9AtrwjD6jGAGoJtNG\nSKKZulefQQKBgHBXDOH46XzYxdq92AL9vXFr74IpvhkHbBo6Jxwz0HiwbiDv8TE8\n3RFDKgpy7zwciu88EPUiQ5pebNASpRPoXEYxAc7HrG0rg651hlBVNoZjqBZ51nTj\nJTZiUv5S1D5qxAy/0zNPfTuVFycujZUFBGqzfHzj85TbkVciQIfOJsupAoGATtl0\nc55dYjNrHiKXzjcfCMaqVNlqkhE3CGx+wA5cN+FwCEy1Y15ttKxjQOBkxL58wW4y\nO6Vpe+0uiSzW4QsGYZV+x9Ikq6a4KdhU8Ka3o09/geg0dEpk9cxECdPhQfeOY+mN\nxWrhLSzidxTZ/I47cDpw6bj7HmKKe5vzD1pLfwECgYEAufWxlP051W8iBGFXkafU\ndfPUGVGJxgtEP2JG4wawVHjXf/AWuoYeoFKDQy0+0QPKdCu6Anrl9v1KGrWAtlwK\nWelaLsDumCQsfr7hBahzmyVB2x+2hgnqIBuqZBAgv9KiWp3uvBQ/110BDeo7CD4K\nlrRsk4297mOd3PoEqIpmccM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "apnamart@apnamart-xaeh.iam.gserviceaccount.com",
+  "client_id": "108961566430521334736",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/apnamart%40apnamart-xaeh.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
