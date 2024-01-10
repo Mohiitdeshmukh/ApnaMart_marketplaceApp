@@ -1,15 +1,12 @@
 import 'package:flutter/material.dart';
-import 'Screens/HomePage.dart';
-
-
+import 'package:udaan_marketplaceapp/Screens/root_screen.dart';
 
 void main (){
   runApp(
-    new MaterialApp(
+    MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: HomePage(),
-    )
+      home: const RootScreen(),
+     )
   );
 }
-
 
